@@ -1,0 +1,57 @@
+{
+    "version": 1,
+    "name": "EnemyInput",
+    "maps": [
+        {
+            "name": "Enemy Move",
+            "id": "7d738411-2a3d-43b1-8486-68882df84789",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "a926c3d4-66f8-46d9-976e-5697d48e2a1e",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "UpDown",
+                    "id": "0d090e63-e042-4fe3-8b9f-a11c8cbccbda",
+                    "path": "2DVector",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "up",
+                    "id": "a0eaf823-0176-44cc-a266-7abde752b9b2",
+                    "path": "<Keyboard>/upArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "down",
+                    "id": "1515217b-7ee0-47b3-afc1-d0de32334a4f",
+                    "path": "<Keyboard>/downArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

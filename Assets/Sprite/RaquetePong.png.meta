@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 6e152de0f7cdbeb4ba28f49257cadd7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6441318389386038493
+    second: RaquetePong_0
+  - first:
+      213: 1221576415111516950
+    second: RaquetePong_1
+  - first:
+      213: 1320623371792493581
+    second: RaquetePong_2
+  - first:
+      213: -5353093375819510003
+    second: RaquetePong_3
+  - first:
+      213: -5568654637600449867
+    second: RaquetePong_4
+  - first:
+      213: -4277574648393713075
+    second: RaquetePong_5
+  - first:
+      213: -1240875642800434510
+    second: RaquetePong_6
+  - first:
+      213: 1318562830178382887
+    second: RaquetePong_7
+  - first:
+      213: -3127589344201718111
+    second: RaquetePong_8
+  - first:
+      213: 2304671944624870799
+    second: RaquetePong_9
+  - first:
+      213: -2418709369139207991
+    second: RaquetePong_10
+  - first:
+      213: -3134863455401334626
+    second: RaquetePong_11
+  - first:
+      213: 6719559310601421357
+    second: RaquetePong_12
+  - first:
+      213: -1124124936134199180
+    second: RaquetePong_13
+  - first:
+      213: 5302768099495035239
+    second: RaquetePong_14
+  - first:
+      213: -7037955081739616728
+    second: RaquetePong_15
+  - first:
+      213: -2357892974860457232
+    second: RaquetePong_16
+  - first:
+      213: 461886681653834343
+    second: RaquetePong_17
+  - first:
+      213: 4760679176904587747
+    second: RaquetePong_18
+  - first:
+      213: 7438703660865990564
+    second: RaquetePong_19
+  - first:
+      213: -4122772148611587330
+    second: RaquetePong_20
+  - first:
+      213: 4688052554925214959
+    second: RaquetePong_21
+  - first:
+      213: 6452535606984028185
+    second: RaquetePong_22
+  - first:
+      213: -4402525937921583254
+    second: RaquetePong_23
+  - first:
+      213: -7187217680803882673
+    second: RaquetePong_24
+  - first:
+      213: -4800410854378211213
+    second: RaquetePong_25
+  - first:
+      213: 3386766783541708691
+    second: RaquetePong_26
+  - first:
+      213: -1875126448960399531
+    second: RaquetePong_27
+  - first:
+      213: -6752365083220827131
+    second: RaquetePong_28
+  - first:
+      213: -3851878732131864838
+    second: RaquetePong_29
+  - first:
+      213: -7331149028165451041
+    second: RaquetePong_30
+  - first:
+      213: 7560025461075686112
+    second: RaquetePong_31
+  - first:
+      213: 1502296464610201132
+    second: RaquetePong_32
+  - first:
+      213: 8500561440969152107
+    second: RaquetePong_33
+  - first:
+      213: -6224212083927620488
+    second: RaquetePong_34
+  - first:
+      213: -4400746465743592542
+    second: RaquetePong_35
+  - first:
+      213: -2063692170688548942
+    second: RaquetePong_36
+  - first:
+      213: 1088990488618855149
+    second: RaquetePong_37
+  - first:
+      213: 5203917694337855204
+    second: RaquetePong_38
+  - first:
+      213: -5870390425342386479
+    second: RaquetePong_39
+  - first:
+      213: 1636879823553128026
+    second: RaquetePong_40
+  - first:
+      213: -220616509464417533
+    second: RaquetePong_41
+  - first:
+      213: 6285915553501685069
+    second: RaquetePong_42
+  - first:
+      213: 3966342495373105222
+    second: RaquetePong_43
+  - first:
+      213: 7211196583058866326
+    second: RaquetePong_44
+  - first:
+      213: 4565696818278807272
+    second: RaquetePong_45
+  - first:
+      213: 8405636877100499357
+    second: RaquetePong_46
+  - first:
+      213: 2350984319454702767
+    second: RaquetePong_47
+  - first:
+      213: 1196926357193970484
+    second: RaquetePong_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RaquetePong_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 170
+        width: 158
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323347b6d07db96a0800000000000000
+      internalID: -6441318389386038493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaquetePong_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 170
+        width: 158
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61397b00749e3f010800000000000000
+      internalID: 1221576415111516950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaquetePong_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 170
+        width: 158
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c25cda5fbc35210800000000000000
+      internalID: 1320623371792493581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaquetePong_3
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 170
+        width: 158
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f08c4cfedf5b5b0800000000000000
+      internalID: -5353093375819510003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaquetePong_4
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 170
+        width: 158
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba5ef07c1a28b2b0800000000000000
+      internalID: -5568654637600449867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaquetePong_5
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 170
+        width: 158
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac64cdea001236448a3909e2d9ff7c6
+      internalID: -4277574648393713075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ed4781319934d224db1ec45e7fb10cc2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":1.0},"gridSpriteSize":{"x":307.0,"y":1024.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      RaquetePong_0: -6441318389386038493
+      RaquetePong_1: 1221576415111516950
+      RaquetePong_2: 1320623371792493581
+      RaquetePong_3: -5353093375819510003
+      RaquetePong_4: -5568654637600449867
+      RaquetePong_5: -4277574648393713075
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
